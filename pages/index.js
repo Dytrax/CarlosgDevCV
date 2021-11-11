@@ -11,16 +11,32 @@ const Index = () => (
         <div className="card card-body bg-secondary text-light animate__animated animate__fadeIn">
           <div className="row">
             <div className="col-md-4">
-              <img src="/ryan-ray-profile2.jpeg" alt="" className="img-fluid" />
+              <img src="/carlos.jpeg" alt="" className="img-fluid" />
             </div>
             <div className="col-md-8">
-              <h1>Ryan Ray</h1>
+              <h1>Carlos González</h1>
               <h3>Full Stack Developer</h3>
+              <h2>Spanish</h2>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Molestiae atque ullam perferendis harum, nisi porro voluptate,
-                iste consequuntur enim reprehenderit architecto consectetur cum?
-                Totam ad molestias natus illum illo officia.
+                Artista abstracto de códigos aleatorios, desde un juego para aprenderme los 
+                verbos en ingles, hasta una aplicación de ahorros colaborativos, siempre dispuesto aprender,
+                en conocer las personas de trabajo, calidad humana. Amo las Startups, aporto
+                en su visión y en la ejecución tecnica, tengo buenas ideas y las ejecuto. 
+                He desarrollado algoritmos de busqueda, algoritmos de machine Learning,
+                aplicaciones moviles, aplicaciones WEB, API REST, GraphQL, Redux, Vehiculos Autonomos,
+                Sistemas de comunicacion por radiofrecuencia, Xbees, Arduino, Nodejs, python,
+                Matlab
+              </p>
+              <h2>English</h2>
+              <p>
+                Artista abstracto de códigos aleatorios, desde un juego para aprenderme los 
+                verbos en ingles, hasta una aplicación de ahorros colaborativos, siempre dispuesto aprender,
+                en conocer las personas de trabajo, calidad humana. Amo las Startups, aporto
+                en su visión y en la ejecución tecnica, tengo buenas ideas y las ejecuto. 
+                He desarrollado algoritmos de busqueda, algoritmos de machine Learning,
+                aplicaciones moviles, aplicaciones WEB, API REST, GraphQL, Redux, Vehiculos Autonomos,
+                Sistemas de comunicacion por radiofrecuencia, Xbees, Arduino, Nodejs, python,
+                Matlab
               </p>
               <Link href="/hireme">
                 <a className="btn btn-outline-light">Hire Me</a>

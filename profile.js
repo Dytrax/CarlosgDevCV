@@ -4,28 +4,32 @@ export const skills = [
     percentage: 100,
   },
   {
-    skill: "Golang",
-    percentage: 80,
+    skill: "Python",
+    percentage: 100,
   },
   {
     skill: "Nodejs",
-    percentage: 90,
+    percentage: 85,
+  },
+  {
+    skill: "DB Aquitecture",
+    percentage: 89,
   },
   {
     skill: "Blockchain",
-    percentage: 40,
+    percentage: 60,
   },
   {
-    skill: "Physics",
-    percentage: 70,
+    skill: "Electronic Engineer",
+    percentage: 100,
   },
   {
-    skill: "Economics",
+    skill: "FLask",
     percentage: 70,
   },
   {
     skill: "Machine Learning",
-    percentage: 70,
+    percentage: 50,
   },
 ];
 
